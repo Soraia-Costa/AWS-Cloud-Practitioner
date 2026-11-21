@@ -1,0 +1,39 @@
+# AWS Sandbox — Exploração do Ambiente AWS
+
+## Sobre o laboratório
+
+Este laboratório teve como objetivo conhecer o ambiente AWS Sandbox e explorar o Console de Gerenciamento da AWS, identificando os principais serviços disponíveis e suas funcionalidades.
+
+## Objetivos de aprendizagem
+
+- Conhecer o Console de Gerenciamento da AWS.
+- Identificar serviços disponíveis no ambiente de laboratório.
+- Compreender as possibilidades de exploração dos serviços AWS.
+- Conhecer orientações básicas de acesso a instâncias EC2 por SSH.
+
+## Serviços disponíveis para exploração
+
+O ambiente apresenta serviços de diferentes categorias, entre eles:
+
+- Amazon EC2
+- Amazon S3
+- AWS IAM
+- Amazon CloudWatch
+- AWS Lambda
+- Amazon RDS
+- Amazon VPC
+- Amazon DynamoDB
+
+## Aprendizados
+
+Este primeiro contato permitiu conhecer a estrutura do ambiente de laboratório, identificar serviços oferecidos pela AWS e compreender algumas das restrições e orientações de utilização do Sandbox.
+
+## Tecnologias e ferramentas
+
+- Amazon Web Services (AWS)
+- AWS Management Console
+- AWS Sandbox
+
+## Observação
+
+Este repositório registra uma atividade introdutória de exploração do ambiente AWS, não representando uma implementação completa de infraestrutura ou aplicação em nuvem.
