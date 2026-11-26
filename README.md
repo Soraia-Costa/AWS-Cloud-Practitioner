@@ -33,7 +33,7 @@ Criação e configuração de uma Virtual Private Cloud (VPC), com sub-redes pú
 
 ## 📚 Sobre este repositório
 
-Este repositório representa parte da minha jornada de aprendizado em Cloud Computing, reunindo atividades práticas e documentações que contribuem para o desenvolvimento dos meus conhecimentos em infraestrutura e serviços de nuvem.
+Este repositório representa parte da minha jornada de aprendizado em Cloud Computing, reunindo atividades práticas e documentações que contribuem para o desenvolvimento dos meus conhecimentos em infraestrutura e serviços da nuvem.
 
 ---
 
