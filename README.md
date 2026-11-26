@@ -37,4 +37,4 @@ Este repositório representa parte da minha jornada de aprendizado em Cloud Comp
 
 ---
 
-🚀 **Em constante aprendizado e evolução!** 💜**
+🚀 **Em constante aprendizado e evolução!** 💜
